@@ -1,2 +1,2 @@
 # Quizz-Application
-A program which acts as a quizz application.
+This Java program is a simple quiz game where the user answers 5 multiple-choice questions, each worth 10 points. The Quizz class stores the questions and correct answers, and the QuizzApl class handles user input, scoring, and replay options. The user enters their answer, and the program checks if it's correct, updating the score accordingly. After the quiz, the user can choose to play again or exit.
